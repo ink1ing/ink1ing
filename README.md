@@ -1,5 +1,5 @@
-## Hi there 👋 
-I'm Ink,A rational INTJ exploring front-end, Crypto HODLer, and AI coder.
+# Hi there 👋 
+I'm Ink,A rational INTJ AI coder,Crypto HODLer.
 
 ---
 
@@ -29,7 +29,6 @@ I'm Ink,A rational INTJ exploring front-end, Crypto HODLer, and AI coder.
   <img src="https://skillicons.dev/icons?i=cloudflare" />
 </p>
 
-
 ---
 
 ## 📬 Connect With Me
@@ -50,5 +49,6 @@ I'm Ink,A rational INTJ exploring front-end, Crypto HODLer, and AI coder.
 </p>
 
 ---
-
+## 🤔 Out of Code
+> 🎵 hard-core rapper, digital product seller.
 > 🎯 Technology-controlled & self-driven explorer. Love minimalization and freedom, goal: American immigration + digital nomads + wealth freedom.
