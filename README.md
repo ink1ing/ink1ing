@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋 I'm Ink</h1>
-<p align="center">A rational INTJ exploring front-end, Crypto HODLer, and AI coder.</p>
+##Hi there 👋 I'm Ink
+##A rational INTJ exploring front-end, Crypto HODLer, and AI coder.
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=swift,python,pytorch,tensorflow,html,css,js,vue,cloudflare,rust,flask,md,latex,matlab,git,github,vscode,pycharm,windows,apple,ps" />
 </p>
 
@@ -13,7 +13,7 @@
 
 ## 📬 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/ink_thesilent">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
   </a>
