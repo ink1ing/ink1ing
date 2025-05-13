@@ -35,6 +35,9 @@ I'm Ink,A rational INTJ exploring front-end, Crypto HODLer, and AI coder.
 ## 📬 Connect With Me
 
 <p align="left">
+  <a href="https://gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
   <a href="https://twitter.com/ink_thesilent">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
   </a>
