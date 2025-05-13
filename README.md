@@ -27,4 +27,4 @@
 
 ---
 
-> 🎯 技术控 & 自我驱动探索者。热爱极简与自由，目标：美区移民 + 数字游牧 + 财富自由。
+> 🎯 Technology-controlled & self-driven explorer. Love minimalization and freedom, goal: American immigration + digital nomads + wealth freedom.
