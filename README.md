@@ -3,7 +3,7 @@ I'm Ink,A rational INTJ exploring front-end, Crypto HODLer, and AI coder.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ## 💻 Lang & Framework
 
