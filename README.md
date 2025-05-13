@@ -55,4 +55,4 @@ I'm Ink,A rational INTJ AI coder,Crypto HODLer.
 
 > 🎵 hard-core rapper, digital product seller.
 
-> 🎯 Technology-controlled & self-driven explorer. Love minimalization and freedom, goal: American immigration + digital nomads + wealth freedom.
+> 🎯 Technology-controlled & self-driven explorer. Love minimalization and freedom, goal: digital nomads + wealth freedom.
