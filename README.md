@@ -5,9 +5,30 @@ I'm Ink,A rational INTJ exploring front-end, Crypto HODLer, and AI coder.
 
 ## 🛠 Tech Stack
 
+## 💻 Lang & Framework
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=swift,python,pytorch,tensorflow,html,css,js,vue,cloudflare,rust,flask,md,latex,matlab,git,github,vscode,pycharm,windows,apple,ps" />
+  <img src="https://skillicons.dev/icons?i=swift,python,pytorch,tensorflow,html,css,js,vue,flask,md,latex,matlab,rust" />
 </p>
+
+## 🖥 Operating System
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,apple" />
+</p>
+
+## 🛠 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,ps" />
+</p>
+
+## ☁️ Services
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cloudflare" />
+</p>
+
 
 ---
 
