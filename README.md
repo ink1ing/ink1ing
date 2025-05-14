@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm Ink, A rational INTJ AI coder, Crypto HODLer.
+I'm Ink, A rational INTJ, AI coder and crypto HODLer.
 
 ---
 
