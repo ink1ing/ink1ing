@@ -36,7 +36,7 @@ I'm Ink, A rational INTJ, AI coder and crypto HODLer.
 
 <p align="left">
   <a href="https://gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+    <img src="mailto:huinkling@gmail.com?subject="/>
   </a>
   <a href="https://twitter.com/ink_thesilent">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
