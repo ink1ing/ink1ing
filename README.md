@@ -21,7 +21,7 @@ I'm ink, A rational INTJ, AI coder and crypto HODLer.
 ## 🛠 Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,ps" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,pycharm" />
 </p>
 
 ## ☁️ Services
