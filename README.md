@@ -44,8 +44,8 @@ I'm ink, A rational INTJ, AI coder and crypto HODLer.
   <a href="https://discord.com/users/huinkling">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
   </a>
-  <a href="https://linkedin.com">
-    <img src="https://www.linkedin.com/in/dongshuai-hui-aa2429371/" alt="LinkedIn"/>
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/dongshuai-hui-aa2429371/)">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
