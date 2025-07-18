@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm ink, A rational INTJ, AI coder and crypto HODLer.
+I'm ink, AN INTJ and AI coder.
 
 ---
 
@@ -51,8 +51,3 @@ I'm ink, A rational INTJ, AI coder and crypto HODLer.
 
 ---
 
-## 🤔 Out of Code
-
-> 🎵 hard-core rapper, digital product seller.
-
-> 🎯 Technology-controlled & self-driven explorer. Love minimalization and freedom, goal: digital nomads + wealth freedom.
