@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm ink, AN INTJ and AI coder.
+I'm ink, a vibe coder.
 
 ---
 
