@@ -1,7 +1,4 @@
-# Hi there 👋 
-
-I'm silas.
-
+# Hi there, I'm silas.
 ---
 
 # 🛠 Tech Stack
