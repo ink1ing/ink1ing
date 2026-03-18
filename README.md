@@ -1,4 +1,3 @@
-# Hi there, I'm silas.
 
 # 🛠 Tech Stack
 
