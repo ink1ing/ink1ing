@@ -25,7 +25,6 @@
   <img src="https://skillicons.dev/icons?i=cloudflare" />
 </p>
 
----
 
 ##  Connect With Me
 
@@ -44,5 +43,4 @@
   </a>
 </p>
 
----
 
