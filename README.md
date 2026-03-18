@@ -1,6 +1,4 @@
 
-# 🛠 Tech Stack
-
 ## 💻 Lang & Framework
 
 <p align="left">
