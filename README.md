@@ -1,23 +1,25 @@
 
-## 💻 Lang & Framework
+
+
+##  Lang & Framework
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=swift,python,pytorch,tensorflow,html,css,js,vue,flask,md,latex,matlab,rust" />
 </p>
 
-## 🖥 Operating System
+##  Operating System
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows,apple" />
 </p>
 
-## 🛠 Tools
+##  Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github,vscode,pycharm" />
 </p>
 
-## ☁️ Services
+##  Services
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cloudflare" />
@@ -25,7 +27,7 @@
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://gmail.com">
